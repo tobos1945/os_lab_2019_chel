@@ -1,0 +1,9 @@
+app_static
+app_dynamic
+tests
+revert
+swap_1
+*.o
+*.a
+*.so
+*.out
