@@ -1,8 +1,11 @@
 app_static
 app_dynamic
 tests
+tests/tests
 revert
 swap_1
+swapp_app
+hello_world
 *.o
 *.a
 *.so
