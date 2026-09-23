@@ -10,3 +10,7 @@ hello_world
 *.a
 *.so
 *.out
+sequential_min_max
+parallel_min_max
+run_sequential
+minmax_*.txt
