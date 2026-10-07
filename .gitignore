@@ -9,6 +9,10 @@ hello_world
 zombie
 process_memory
 psum
+mutex_no_lock
+mutex_with_lock
+factorial
+deadlock
 libpsum.a
 psum_lib.o
 *.o
