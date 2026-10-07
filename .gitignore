@@ -6,6 +6,11 @@ revert
 swap_1
 swapp_app
 hello_world
+zombie
+process_memory
+psum
+libpsum.a
+psum_lib.o
 *.o
 *.a
 *.so
